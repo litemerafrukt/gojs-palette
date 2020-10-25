@@ -4411,6 +4411,11 @@ globby@^9.2.0:
     pify "^4.0.1"
     slash "^2.0.0"
 
+gojs@^2.1.27:
+  version "2.1.27"
+  resolved "https://registry.yarnpkg.com/gojs/-/gojs-2.1.27.tgz#46969c0fa3ad2cf6a13e5e6206d3049d44ca52a0"
+  integrity sha512-hwo3nBlFSK2jSZYFRY8m6geVprhS6DyNEgHL8hbUgACTMpaGQDwdJhDGgvC+8+HXiDvLFR9HarkZIIu7q1v6qA==
+
 graceful-fs@^4.1.11, graceful-fs@^4.1.15, graceful-fs@^4.1.2, graceful-fs@^4.1.6, graceful-fs@^4.2.0, graceful-fs@^4.2.2:
   version "4.2.4"
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.4.tgz#2256bde14d3632958c465ebc96dc467ca07a29fb"
